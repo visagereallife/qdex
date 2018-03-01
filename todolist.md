@@ -1,7 +1,7 @@
--Fraktionsnamen ändern
--Neue Basen Mappen 
--Gangwarsystem überarbeiten
--Neue HUD
+Fraktionsnamen ändern
+Neue Basen Mappen 
+Gangwarsystem überarbeiten
+Neue HUD
 Neue Designs
 Serverfarbe einrichten
 Fraktionsskin's überarbeiten
